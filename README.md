@@ -1,2 +1,3 @@
-# HyperionConnect
-Hyperion Connect Technical Tasks
+# connect-app
+
+Basic chat app created using React
